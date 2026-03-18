@@ -29,13 +29,13 @@ Este dashboard fue credo para **personas que están en el proceso búsqueda de t
 
 ### Página 1: Vista de alto nivel del Mercado de Empleos de Datos
 
-![Dashboard - Página 1] (D:\Documentos\DA Projects\Data_jobs_dahboard\Imágenes\Parte1.png)
+![Dashboard - Página 1](Imagenes/Pagina1.png)
 
 Esta es la página principal para la información del mercado laboral de datos. Muestra KPIs clave como cantidad de empleos totales, mediana de salarios y empleos más requeridos para dar una mirada rápida a lo que está sucediendo en el mercado.
 
 ### Página 2: Empleos Drill Through
 
-![Dashboard - Página 2] (D:\Documentos\DA Projects\Data_jobs_dahboard\Imágenes\Parte2.png)
+![Dashboard - Página 2](.\Imagenes\Pagina2.png)
 
 Esta es la página de detalles más específicos. Desde la página principal del dashboard es posible navegar a esta página para obtener detalles específicos para un único tipo de empleo incluyendo información como rnagos de salario, estadísticas de modalidad del empleo (en este caso si el empleo es remoto o no), las plataformas con más ofertas de empleo y un mapa global de las ubicaciones de dichos empleos.
 
