@@ -35,7 +35,7 @@ Esta es la página principal para la información del mercado laboral de datos. 
 
 ### Página 2: Empleos Drill Through
 
-![Dashboard - Página 2](\Imagenes\Pagina2.png)
+![Dashboard - Página 2]( Imagenes/Pagina2.png)
 
 Esta es la página de detalles más específicos. Desde la página principal del dashboard es posible navegar a esta página para obtener detalles específicos para un único tipo de empleo incluyendo información como rnagos de salario, estadísticas de modalidad del empleo (en este caso si el empleo es remoto o no), las plataformas con más ofertas de empleo y un mapa global de las ubicaciones de dichos empleos.
 
